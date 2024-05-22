@@ -1,11 +1,14 @@
 body {
-    background-color: #0f292f;
+    background-image: url("https://i.pinimg.com/originals/23/2e/1d/232e1d741664caf6068d793f4424f4e8.jpg");
+    background-color: #cccccc;
 }
 
 h1 {
     color: lightgray;
-    text-align: center;
-    text-decoration: underline #0f292f;
+    text-align: left;
+    text-decoration: underline black;
+    margin-bottom: 50px;
+    margin-left: 25px;
 }
 
 .information {
@@ -27,4 +30,14 @@ h2 {
 li {
     color: white;
     text-decoration: underline #0f292f;
+}
+
+.logo {
+    margin-left: 25px;
+}
+
+p {
+    color: white;
+    display: block;
+    margin-right: 500px;
 }
